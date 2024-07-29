@@ -226,7 +226,7 @@ compare with normal way, notice the difference in tags
 
 ## 8. JUnit Tasks
 
-### 8.1 see example in junit_example/junit
+### 8.1 used to create test cases
 ### 8.2 for test case to run, need to include junit.jar and hamcrest.jar
 
 ## 9. Mail Tasks
